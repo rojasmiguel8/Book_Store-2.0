@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     # third
     'crispy_forms',
     'crispy_bootstrap5',
+   
 ]
 
 # django-crispy-forms
